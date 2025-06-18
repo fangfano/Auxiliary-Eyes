@@ -8,12 +8,15 @@
 ## 演示视频
 
 1.功能一：语音唤醒
+
 https://github.com/user-attachments/assets/2b8d6953-a47d-4a82-a298-1db5c9824462
 
 2.功能二：识别物体
+
 https://github.com/user-attachments/assets/ccc98382-3fe4-4f7d-9c6f-133d5c94a3b0
 
 3.功能三：录制视频
+
 https://github.com/user-attachments/assets/0b37baf9-54fa-4428-bd4a-c0138240033c
 
 
