@@ -1,14 +1,20 @@
 # 盲人辅助眼镜
 这是一个为盲人提供视觉感知的辅助眼镜，生活中存在很多物品上面没有盲文标记（例如：药品盒、普通书本），为盲人带来了一定的困扰。因此就有了这个项目，想法来自于一位中国山东青岛的李沐恩小朋友，我帮助她实现这个小发明。
 
-[![demo.png](https://img.picui.cn/free/2025/06/18/68522e885edff.jpg)](https://img.picui.cn/free/2025/06/18/68522e885edff.jpg)  
-
+![demo](https://github.com/user-attachments/assets/7f7e11ac-3667-495b-89fa-8c63eaf47803)
 
 ---
 
 ## 演示视频
 
+1.功能一：语音唤醒
+https://github.com/user-attachments/assets/2b8d6953-a47d-4a82-a298-1db5c9824462
 
+2.功能二：识别物体
+https://github.com/user-attachments/assets/ccc98382-3fe4-4f7d-9c6f-133d5c94a3b0
+
+3.功能三：录制视频
+https://github.com/user-attachments/assets/0b37baf9-54fa-4428-bd4a-c0138240033c
 
 
 ---
@@ -19,14 +25,16 @@
 
 https://e.tb.cn/h.hbw4XoGaOIyQ6hm?tk=v3gxVIzAiv7
 
-[![orangepi_3b.png](https://img.picui.cn/free/2025/06/18/68522e86bf42f.jpg)](https://img.picui.cn/free/2025/06/18/68522e86bf42f.jpg)  
+![orangepi_3b](https://github.com/user-attachments/assets/1b19d306-2f6b-4a37-9b31-b393a6710ffb)
+
 
 2.可架在眼镜上的摄像头
 购买链接：
 
 https://e.tb.cn/h.haocogLEb9bhMoB?tk=MlXNVqHS9NB
 
-[![yanjing.png](https://img.picui.cn/free/2025/06/18/68522e8675670.jpg)](https://img.picui.cn/free/2025/06/18/68522e8675670.jpg)  
+![yanjing](https://github.com/user-attachments/assets/8c268fbe-3c77-4eb8-9ff9-2c0f61d7e9b9)
+
 
 3.USB有线小音响
 
@@ -34,7 +42,7 @@ https://e.tb.cn/h.haocogLEb9bhMoB?tk=MlXNVqHS9NB
 
 https://e.tb.cn/h.hcZaRRi4oIQvx6r?tk=2ccrVtWi5wN
 
-[![usbxiaoyinxiang.png](https://img.picui.cn/free/2025/06/18/68522e8708dfe.png)](https://img.picui.cn/free/2025/06/18/68522e8708dfe.png)  
+![USByingxiang](https://github.com/user-attachments/assets/ce2526e6-21b1-49a0-9a5d-5d0656be702a)
 
 
 ---
